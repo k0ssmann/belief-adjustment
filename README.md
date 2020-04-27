@@ -1,4 +1,4 @@
-# Beliefe-Adjustment-Model
+# Belief-Adjustment-Model
 
 Implementation of the Belief-Adjustment-Model by Hogarth & Einhorn (1992)
 
